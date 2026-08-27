@@ -28,7 +28,7 @@ Front-end responsivo (HTML, CSS, Jinja2) integrado a back-end Flask/SQLite.
 Loja virtual com catálogo de produtos e pedidos via WhatsApp.
 🌐 [buzzistore2.netlify.app](https://buzzistore2.netlify.app/)
 
-**Barraca da Galega**
+Loja de Bairro
 E-commerce simples com pedidos via WhatsApp.
 🌐 [vendinhagalega.netlify.app](https://vendinhagalega.netlify.app/)
 
